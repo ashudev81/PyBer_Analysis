@@ -6,9 +6,10 @@
         1.  Urban city has received highest total fare in all three types of cities. However, avg. fare per ride and avg. fare per driver is lowest among all three cities.
         2.  Urban city has highest number of drivers as well as total rides.
         3.  Rural city has lowest number of drivers as well as obtained lowest number of rides. However, Avg. fare per ride and Avg. fare per driver is high among all three cities.
-        ![Byper Weekly fare by city chart](Byper_weekly_fare_by_city.png)
-        ![Byper Weekly fare by city Statistics](Byper_weekly_fare_by_city_statistics.png)
-        ![Byper Weekly fare by city Statistics-2](Byper_weekly_fare_by_city_statistics-1.png)
+![Byper Weekly fare by city chart](Byper_weekly_fare_by_city.png)
+![Byper Weekly fare by city Statistics](Byper_weekly_fare_by_city_statistics.png)
+![Byper Weekly fare by city Statistics-2](Byper_weekly_fare_by_city_statistics-1.png)
+![Total Fare by type of city - weekly](Total_fare_by.png)
 ## 3. Summary:
     1.	Urban city needs to concentrate on Average fare per ride is lowest in all three types of cities, needs to work on how to increase it.
     2.	 Rural city has lowest number of drivers and due to this reason average fare rate per ride and average fare per driver is higher.
